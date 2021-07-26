@@ -1,12 +1,2 @@
 ﻿  Source.cpp
-C:\Users\timer\source\repos\L22\Single_list.h(11,11): warning C4566: character represented by universal-character-name '\u0412' cannot be represented in the current code page (1252)
-C:\Users\timer\source\repos\L22\Single_list.h(11,11): warning C4566: character represented by universal-character-name '\u0432' cannot be represented in the current code page (1252)
-C:\Users\timer\source\repos\L22\Single_list.h(11,11): warning C4566: character represented by universal-character-name '\u0435' cannot be represented in the current code page (1252)
-C:\Users\timer\source\repos\L22\Single_list.h(11,11): warning C4566: character represented by universal-character-name '\u0434' cannot be represented in the current code page (1252)
-C:\Users\timer\source\repos\L22\Single_list.h(11,11): warning C4566: character represented by universal-character-name '\u0438' cannot be represented in the current code page (1252)
-C:\Users\timer\source\repos\L22\Single_list.h(11,11): warning C4566: character represented by universal-character-name '\u0442' cannot be represented in the current code page (1252)
-C:\Users\timer\source\repos\L22\Single_list.h(11,11): warning C4566: character represented by universal-character-name '\u0437' cannot be represented in the current code page (1252)
-C:\Users\timer\source\repos\L22\Single_list.h(11,11): warning C4566: character represented by universal-character-name '\u043D' cannot be represented in the current code page (1252)
-C:\Users\timer\source\repos\L22\Single_list.h(11,11): warning C4566: character represented by universal-character-name '\u0430' cannot be represented in the current code page (1252)
-C:\Users\timer\source\repos\L22\Single_list.h(11,11): warning C4566: character represented by universal-character-name '\u0447' cannot be represented in the current code page (1252)
   L22.vcxproj -> C:\Users\timer\source\repos\L22\Debug\L22.exe

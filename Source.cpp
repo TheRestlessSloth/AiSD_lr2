@@ -4,6 +4,8 @@
 
 int main()
 {
+	srand(1);
+
 	Student pr = { "John \t\tScoth", 3, 2001, 57, 1 };
 	Student* p = &pr;
 
@@ -25,9 +27,21 @@ int main()
 
 	cout <<"#\t"<< "First" << "\t\tLast NM\t" << "Number" << "\t" << "Year" << "\t" << "Marks" << "\n";
 	show(p);
+	//DeleteAll(p);
 
+	cout << "2 task\n";
+	int a[12];
 
+	for (int i = 0; i < 12; i++)
+		a[i] = rand()%100;
 
-	DeleteAll(p);
+	Double_List br = { 5 };
+	Double_List* b = &br;
+
+	for (int i = 1; i < 12; i++)
+		AddDL(b, a[i]);
+
+	DL_show(b);
+
 	return 0;
 }
